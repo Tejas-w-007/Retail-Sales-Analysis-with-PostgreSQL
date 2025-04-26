@@ -1,32 +1,16 @@
-🛒 Retail Sales Analysis with PostgreSQL
-This project focuses on analyzing retail sales data using SQL in PostgreSQL to uncover performance trends and generate actionable insights to support business decision-making.
+# Retail Sales Analysis with PostgreSQL
+This project focuses on analyzing retail sales data using SQL in PostgreSQL to uncover performance trends and generate actionable insights to support business decision-making. For that we have cleaned the data from null values and then did EDA , retrieving important information from the dataset. 
 
-🔍 Project Overview
-Data Cleaning & Exploration:
-Used PostgreSQL to clean and explore raw retail data for improved understanding and usability.
+# Objectives to do
+- Clean the data and format it ready for analysis
+- Do EDA on the data and retrieve important information
+  
+# Tools & Technologies
+- PostgreSQL
+- SQL
+- pgAdmin4
 
-Advanced SQL Queries:
-Wrote complex SQL queries to analyze sales performance, identify revenue trends, product-wise performance, and customer behavior.
-
-Business Insights:
-Extracted key insights to aid in:
-
-Operational improvements
-
-Sales forecasting
-
-Strategic planning and performance evaluation
-
-🧰 Tools & Technologies
-PostgreSQL
-
-SQL
-
-pgAdmin / DBeaver (or any PostgreSQL GUI)
-
-📌 Key Insights
-Highlighted peak sales periods and underperforming products.
-
-Identified high-value customers and regional sales trends.
-
-Provided data-driven recommendations for inventory and pricing strategies.
+# Insights Extracted
+- Evening shift has the highest number of orders.
+- Clothing category has the highest sales.
+- In 2023, February is the highest selling month.
